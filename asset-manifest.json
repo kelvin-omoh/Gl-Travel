@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/gl-travel/static/css/main.7d9ff5e5.css",
-    "main.js": "/gl-travel/static/js/main.17727901.js",
-    "static/media/space.mp4": "/gl-travel/static/media/space.41584ed51700d249bf73.mp4",
-    "static/media/heroImg.jpg": "/gl-travel/static/media/heroImg.717ecc48caf23ce480de.jpg",
-    "static/media/moon.jpg": "/gl-travel/static/media/moon.91396c73f099b0f6971b.jpg",
-    "static/media/pod.jpg": "/gl-travel/static/media/pod.30776f82b7df80237211.jpg",
-    "index.html": "/gl-travel/index.html",
-    "main.7d9ff5e5.css.map": "/gl-travel/static/css/main.7d9ff5e5.css.map",
-    "main.17727901.js.map": "/gl-travel/static/js/main.17727901.js.map"
+    "main.css": "/Gl-travel/static/css/main.6c35ffc4.css",
+    "main.js": "/Gl-travel/static/js/main.15a2512e.js",
+    "static/media/space.mp4": "/Gl-travel/static/media/space.41584ed51700d249bf73.mp4",
+    "static/media/heroImg.jpg": "/Gl-travel/static/media/heroImg.717ecc48caf23ce480de.jpg",
+    "static/media/moon.jpg": "/Gl-travel/static/media/moon.91396c73f099b0f6971b.jpg",
+    "static/media/pod.jpg": "/Gl-travel/static/media/pod.30776f82b7df80237211.jpg",
+    "index.html": "/Gl-travel/index.html",
+    "main.6c35ffc4.css.map": "/Gl-travel/static/css/main.6c35ffc4.css.map",
+    "main.15a2512e.js.map": "/Gl-travel/static/js/main.15a2512e.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d9ff5e5.css",
-    "static/js/main.17727901.js"
+    "static/css/main.6c35ffc4.css",
+    "static/js/main.15a2512e.js"
   ]
 }
